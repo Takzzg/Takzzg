@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, my name is Guido, i'm a Fullstack Developer.
+I consider myself to be meticulous, friendly and resposible. Committed when working as part of a team.
+I enjoy building modular and robust systems, I take special care of code legibility and style.
 
-<!--
-**Takzzg/Takzzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages I know:
+Spanish - Native
+English - First Certificate in English (FCE)
 
-Here are some ideas to get you started:
+Tecnologies i've worked previously with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- Javascript
+- CSS
+- React
+- Next
+- Redux
+- Express
+- Mongo
+- Postgres
+- Styled Components
+- SASS
+
+To reach me:
+ - Email: guido98q@gmail.com
+ - LinkedIn: https://www.linkedin.com/in/guido-queiroz/
