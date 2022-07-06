@@ -6,20 +6,7 @@ Languages I know:
 Spanish - Native
 English - First Certificate in English (FCE)
 
-Tecnologies i've worked previously with:
-
-- HTML5
-- Javascript
-- CSS
-- React
-- Next
-- Redux
-- Express
-- Mongo
-- Postgres
-- Styled Components
-- SASS
-
-To reach me:
+How reach me:
+ - Phone: +549-1160289041
  - Email: guido98q@gmail.com
  - LinkedIn: https://www.linkedin.com/in/guido-queiroz/
