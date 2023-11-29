@@ -3,8 +3,8 @@
 I like videogames and best practices.
 
 Languages:
-Spanish - Native
-English - First Certificate in English (FCE)
+ - Spanish - Native
+ - English - First Certificate in English (FCE)
 
 How reach me:
  - Phone: +549-1160289041
