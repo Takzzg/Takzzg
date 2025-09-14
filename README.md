@@ -1,4 +1,5 @@
-## Hello there [^1]
+## Hello there
+> <sup><sub>_General Kenobi_</sub></sup>
 
 I'm Guido Queiróz, a Full Stack Developer with over 5 years of experience creating scalable web applications. I specialize in React, Next.js, Node.js, and PostgreSQL, and I’m passionate about clean code, intuitive UI/UX, and efficient development workflows.
 
@@ -12,4 +13,3 @@ How to reach me:
  - Email: guido98q@gmail.com
  - LinkedIn: https://www.linkedin.com/in/guido-queiroz/
 
-[^1]: `General Kenobi`
